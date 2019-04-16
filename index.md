@@ -2,8 +2,11 @@
 title: false
 ---
 
-# Hello, world!
+# Cap Code
+## Introduction à la programmation avec Lua 
 
-This is CS50 AP, Harvard University's introduction to the intellectual enterprises of computer science and the art of programming for students in high school, which satisfies the College Board's new AP CS Principles curriculum framework.
+Bienvenue à ton premier cours de programmation! Si tu n'as jamais touché à une seule ligne de code de ta vie, ou si tu as déjà expérimenté avec des jeux de robots, tu es au bon endroit!
 
-<iframe src="https://www.youtube.com/embed/tZxLMIk_SaY?playlist=GAB6Gm7pTTA"></iframe>
+Dans les prochaines pages, nous allons découvrir le codage en ligne de commandes. 
+
+Alors si tu es prets, on met le cap sur le code!
